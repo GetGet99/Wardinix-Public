@@ -2,9 +2,7 @@
 
 ## 1. Introduction
 
-Welcome to Wardinix ("the Application"). These Terms and Conditions ("Terms") govern your use of the Application. By using the Application, you agree to comply with these Terms. If you do not agree with any part of these Terms, please do not use the Application.
-
-For the purposes of these Terms, a "User" refers to an individual or an organization that interacts with the Application.
+Welcome to Wardinix ("the Application"). These Terms and Conditions ("Terms") govern your use of the Application. For the purposes of these Terms, a "User" refers to an individual or an organization that interacts with the Application. By downloading and using the Application, the User agrees to these Terms and Conditions. If the User does not agree with any part of these Terms, they must not download or use the Application.
 
 ## 2. Liability and Warranty
 
