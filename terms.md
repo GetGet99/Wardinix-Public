@@ -23,7 +23,7 @@ Before making a payment, the User acknowledges the following:
 2. **All payments are final. By paying, the User confirms that they have tested the Application and are satisfied with its functionality.**
 3. Payment applies only to the current version of the Application. Future updates are not guaranteed, and we reserve the right to charge for upgrades. If an automatic update occurs and the User is dissatisfied, they may revert to a previously downloaded version.
 4. We reserve the right to change the price of the Application or make it available free of charge at any time.
-5. If the User has paid but the Application still shows an unpaid badge, they can manually dismiss it using the "I already paid." button. However, Software Usage Rights still apply based on actual payment status, not on whether the badge is displayed.
+5. If the User has paid but the Application still shows an unpaid badge, they can manually dismiss it using the "Wait! I already paid." button. However, Software Usage Rights still apply based on actual payment status, not on whether the badge is displayed.
 
 ## 5. Software Usage Rights
 
