@@ -1,5 +1,7 @@
 # Terms and Conditions
 
+For Wardinix version 0.0.1
+
 ## 1. Introduction
 
 Welcome to Wardinix ("the Application"). These Terms and Conditions ("Terms") govern your use of the Application. For the purposes of these Terms, a "User" refers to an individual or an organization that interacts with the Application. By downloading and using the Application, the User agrees to these Terms and Conditions. If the User does not agree with any part of these Terms, they must not download or use the Application.
@@ -42,3 +44,7 @@ Before making a payment, the User acknowledges the following:
 - The User may not reverse engineer, decompile, disassemble, or attempt to discover the source code of the Application by any means, unless expressly permitted by applicable law.
 - The User may not modify, adapt, or create derivative works based on the Application, including but not limited to adding malware or altering its functionality.
 - The User may not distribute, share, or otherwise make available the decompiled or modified source code of the Application, whether for personal or commercial purposes.
+
+## 8. Updates to the Terms and Conditions
+
+The Terms and Conditions may change at any time. However, this Terms and Conditions is linked with the version number specified above. If you update the application, we may have a newer version of Terms and Conditions for associated version.
