@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-For Wardinix version 0.0.1
+For Wardinix version 0.0.2 and older
 
 ## 1. Introduction
 
