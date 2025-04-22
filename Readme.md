@@ -1,9 +1,13 @@
 # Wardinix
 
-Wardinix is a payware whiteboard application. It is NOT open sourced. This repository provides the following:
+Wardinix is a payware whiteboard application. It is NOT open sourced. You can download from [Microsoft Store](https://apps.microsoft.com/detail/9NS9LHVQ7XBP) or [Release Tab](https://github.com/GetGet99/Wardinix-Public/releases)
+
+
+This repository provides the following:
 - [Terms and Conditions](terms.md)
 - [Issues Tab](https://github.com/GetGet99/Wardinix-Public/issues)
 - [Discussions Tab](https://github.com/GetGet99/Wardinix-Public/discussions)
+- [Release Tab](https://github.com/GetGet99/Wardinix-Public/releases)
 
 ## Important
 
