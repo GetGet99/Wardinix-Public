@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-For Wardinix version 0.0.3 and previous versions
+For Wardinix version 0.0.4 and previous versions
 
 ## 1. Introduction
 
@@ -27,12 +27,14 @@ Before making a payment, the User acknowledges the following:
 4. Payment applies only to the current version of the Application. Future updates are not guaranteed, and we reserve the right to charge for upgrades. If an automatic update occurs and the User is dissatisfied, they may revert to a previously downloaded version.
 5. We reserve the right to change the price of the Application or make it available free of charge at any time.
 6. If the User has paid but the Application still shows an unpaid badge, they can manually dismiss it using the "Wait! I already paid." button. However, Software Usage Rights still apply based on actual payment status, not on whether the badge is displayed.
+7. If the User receives a refund, their license is considered revoked. They may only continue using the Application for testing purposes unless they repurchase it.
 
 ## 5. Software Usage Rights
 
 1. The User has the right to use the Application for commercial or personal purposes for 30 days from agreeing to these Terms.
 2. After 30 days, unpaid Users may only use the Application for testing purposes. Commercial and personal use is not allowed before payment.
 3. Organizations must make a payment for each individual within the organization who uses the Application. If an individual stops using the Application (e.g., due to leaving the organization), another individual may take their place, as long as the total number of individuals using the Application does not exceed the number of payments made by the organization.
+4. If a refund is issued by Microsoft or any payment provider, the User will be considered as not having a valid license, unless they make a new payment. All rights to use the Application for commercial or personal purposes are revoked, and usage is restricted to testing purposes only as described above.
 
 ## 6. Clarifications
 
